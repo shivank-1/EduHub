@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+youtube-transcript-api
+langchain-groq
+langchain
+pymupdf
+Pillow
+google-generativeai
+pytubefix
+pydub
+openai
