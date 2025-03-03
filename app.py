@@ -199,7 +199,7 @@ def pdf_note_generator():
                 st.error(f"An error occurred: {e}")
 
 # Run the selected functionality
-if option == "YouTube Video Summarizer":
+if option == "YouTube Video Notes":
     youtube_summarizer()
 elif option == "PDF Note Generator":
     pdf_note_generator()
